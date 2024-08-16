@@ -15,4 +15,4 @@ jobs:
         with:
           python-version: '3.10'
       - name: Test!
-        run: python test.py --verbose
+        run: python test.py
